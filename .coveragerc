@@ -1,0 +1,16 @@
+[run]
+source = q2_dynamo
+branch = True
+omit =
+    */tests*
+    */__init__.py
+    q2_dynamo/_version.py
+    versioneer.py
+
+[report]
+fail_under = 90
+omit =
+    */tests*
+    */__init__.py
+    q2_dynamo/_version.py
+    versioneer.py
