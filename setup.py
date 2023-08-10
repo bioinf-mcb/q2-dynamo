@@ -16,7 +16,7 @@ setup(
     packages=find_packages(),
     author="Zuzanna Karwowska",
     author_email="zuzanna.karwowska@doctoral.uj.edu.pl",
-    description="",
+    description="Analyze longitudinal data",
     license='BSD-3-Clause',
     url="https://github.com/bioinf-mcb/q2-dynamo",
     entry_points={
